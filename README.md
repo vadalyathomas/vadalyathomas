@@ -3,7 +3,7 @@
 
 📚 Studying Cybersecurity, Information Security, and Software Development.
 
-☀️ Continuous learner with aspirations to lean new coding languages and secure information databases.
+☀️ Continuous learner with aspirations to learn new coding languages and secure information databases.
 
 
 
