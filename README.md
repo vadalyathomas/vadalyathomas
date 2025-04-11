@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Vadalya Thomas
-🪪 Student @ Sololearn.
+🪪 Student @ Sololearn and Keller Graduate School of Management of Devry University.
 
 📚 Studying Cybersecurity, Information Security, and Software Development.
 
