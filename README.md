@@ -2,7 +2,7 @@
 
 I'm a Praticing Programmer
 
-View all projects and labs here.
+View All current/past Projects and Labs here.
 
 <h2> 👩🏾‍💻 Zenmap Scanning Project:</h2>
  ⬩ <b> Network Scanner (Zenmap)</b>
