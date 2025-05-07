@@ -5,7 +5,7 @@ I'm a Praticing Programmer
 View all projects and labs here.
 
 <h2> 👩🏾‍💻 Port Scanning Project:</h2>
- ⬩<b>Network Scanner (Zenmap)</b>
+ ⬩ <b>Network Scanner (Zenmap)</b>
  <h2> 🤳 Connect with me:</h2>
 <img align="left" alt="VadalyaThomas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 (https://www.linkedin.com/in/vadalya-thomas)
