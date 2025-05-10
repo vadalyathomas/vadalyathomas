@@ -5,7 +5,7 @@ I'm a Praticing Programmer.
 View All current/past Projects and Labs here.
 
 <h2> 👩🏾‍💻 Zenmap Scanning Project:</h2>
- ⬩ <b> Network Scanner (Zenmap)</b> • [Port Scanning with Zenmap](https://github.com/vadalyathomas/Port-Scanning-with-Zenmap)  
+ ⬩ <b> Network Scanner (Zenmap)</b> • [Port Scanning with Zenmap] (https://github.com/vadalyathomas/Port-Scanning-with-Zenmap)  
  
 <h2> 💻 Software Development Projects:</h2>
  ⬩ <b>Debugging Javascript - Spotting Errors</b>󠁯 •󠁏󠁏 [Debugging JS] (https://github.com/vadalyathomas/debugging-js)
