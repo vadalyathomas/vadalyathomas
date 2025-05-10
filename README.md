@@ -8,7 +8,7 @@ View All current/past Projects and Labs here.
  ⬩ <b> Network Scanner (Zenmap)</b> • [Port Scanning with Zenmap](https://github.com/vadalyathomas/Port-Scanning-with-Zenmap)  
  
 <h2> 💻 Software Development Projects:</h2>
- ⬩ <b>Debugging Javascript - Spotting Errors</b> [Debugging JS] (https://github.com/vadalyathomas/debugging-js)
+ ⬩ <b>Debugging Javascript - Spotting Errors</b>󠁯 •󠁏󠁏 [Debugging JS] (https://github.com/vadalyathomas/debugging-js)
  
 <h2> 🤳 Connect with me:</h2>
 <img align="left" alt="VadalyaThomas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
