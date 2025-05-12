@@ -8,7 +8,7 @@ View All current/past Projects and Labs here.
  ⬩ <b> Network Scanner (Zenmap)</b> • [Port Scanning with Zenmap] (https://github.com/vadalyathomas/Port-Scanning-with-Zenmap)  
  
 <h2> ▸ Software Development Projects:</h2>
- ⬩ <b>Debugging Javascript - Spotting Errors</b>󠁯 •󠁏󠁏 [Debugging JS] (https://github.com/vadalyathomas/debugging-js)
+ ⬩ <b>Debugging Javascript - Spotting Errors</b>󠁯 •󠁏󠁏 [Debugging JS] (https://github.com/vadalyathomas/debugging-js)<br>
  ⬩ <b>Azure Active Directory (Microsoft Entra ID)</b> •󠁏󠁏 [Azure Web App Creation] (https://github.com/vadalyathomas/Azure-web-app-for-active-directory)
  
 <h2> 🤳 Connect with me:</h2>
