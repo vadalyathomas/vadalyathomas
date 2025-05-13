@@ -11,6 +11,9 @@ View All current/past Projects and Labs here.
  ⬩ <b>Debugging Javascript - Spotting Errors</b>󠁯 •󠁏󠁏 [Debugging JS] (https://github.com/vadalyathomas/debugging-js)<br>
  
  ⬩ <b>Azure Active Directory (Microsoft Entra ID)</b> •󠁏󠁏 [Azure Web App Creation] (https://github.com/vadalyathomas/Azure-web-app-for-active-directory)
+
+ <h2>VMware Network Virtualization and Security Platform Labs</h2>
+ ⬩ <b>Manage Users and Roles</b>󠁯 •󠁏󠁏 [Configure Access Control] ()
  
 <h2> 🤳 Connect with me:</h2>
 <img align="left" alt="VadalyaThomas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
