@@ -12,7 +12,7 @@ View All current/past Projects and Labs here.
  
  ⬩ <b>Azure Active Directory (Microsoft Entra ID)</b> •󠁏󠁏 [Azure Web App Creation] (https://github.com/vadalyathomas/Azure-web-app-for-active-directory)
 
- <h2> ▸ VMware Network Virtualization and Security Platform Labs</h2>
+ <h2> ▸ VMware Network Virtualization and Security Platform Labs:</h2>
  ⬩ <b>Manage Users and Roles</b>󠁯 •󠁏󠁏 [Configure Access Control Permissions] (https://github.com/vadalyathomas/Manage-Users-and-Roles)
  
 <h2> 🤳 Connect with me:</h2>
