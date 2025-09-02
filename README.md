@@ -1,6 +1,6 @@
-##  👋 Hi, I am Vadalya Thomas
+##  👋 Hi, I'm Vadalya Thomas
 
-I am a Programmer.
+I'm a Programmer.
 
 View All Projects and Labs here.
 
