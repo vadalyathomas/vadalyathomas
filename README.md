@@ -1,6 +1,6 @@
 ##  👋 Hi, I'm Vadalya Thomas
 
-I'm a Programmer and Network Specialist.
+I'm a practicing Programmer and Network Specialist.
 
 View All Projects and Labs here.
 
